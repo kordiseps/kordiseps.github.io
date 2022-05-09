@@ -1,8 +1,8 @@
 # Said Yeter  
 > Software Engineer  
-[E-Mail](saidyeter@hotmail.com)  
-[Linkedin](linkedin.com/in/said-yeter)  
-[Github](github.com/kordiseps)  
+[E-Mail](mailto:saidyeter@hotmail.com)  
+[Linkedin](https://linkedin.com/in/said-yeter)  
+[Github](https://github.com/kordiseps)  
 
 I have experienced on web apps, desktop apps and hosted services (most likely on .Net Core). Had knowledge Digital Conversion and major ERP systems. Had knowledge about layered architecture, agile methodologies, SOA and Micro Services. Used design principles and design patterns. Working JavaScript personally on side projects.
 
